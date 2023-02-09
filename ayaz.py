@@ -23,6 +23,12 @@ boole cebiri
 
 int = integer = tamsayı: -1, 0, 1
 float = ondalıklı sayı, kesirli sayı, rasyonel sayı: 7/3, 0.3
+
+0.5 = 5/10 = 1/2 = %50
+0.39 = %39 = 39/100
+%48 = 0.48 = 48/100 = 24/50 = 12/25
+160/250 = :
+
 str = string = "metin ayaz hebele"
 list = liste = ["ayaz", "gümüş", 11]
 tuple = demetler ("ayaz", "gümüş", 11)
