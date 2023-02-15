@@ -34,6 +34,7 @@ list = liste = ["ayaz", "gümüş", 11]
 tuple = demetler ("ayaz", "gümüş", 11)
 dict = dictionary = sözlük:
 bool = True ya da False
+'''
 ayaz_top_mu = False
 print(ayaz_top_mu)
 
@@ -48,6 +49,8 @@ print(ayaz_soyad)
 print(ayaz_yas)
 
 
+
+'''
 insan = {
     "isim": "ayaz",
     "soyisim": "gümüş",
@@ -65,7 +68,7 @@ if yas < 10:
 if yas >= 10 and yas < 18:
     print("10 yaşına eşit veya büyüksün ama halen bir çocuksun")
 else:
-    print("koca bir yetişkin olmuşsun be!")
+    print("koca bir yetişkin olmuş pezevenk!")
 '''
 
 
